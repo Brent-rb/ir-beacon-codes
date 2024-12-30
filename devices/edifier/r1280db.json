@@ -3,7 +3,7 @@
   "model": "R1280DB",
   "defaults": {
     "protocol": "NEC1",
-    "address": 23116,
+    "address": 59152,
     "lsb": true
   },
   "codes": [
