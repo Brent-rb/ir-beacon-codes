@@ -1,0 +1,71 @@
+{
+  "brand": "Edifier",
+  "model": "R1280DB",
+  "defaults": {
+    "protocol": "NEC1",
+    "address": 23116,
+    "lsb": true
+  },
+  "codes": [
+    {
+      "key": "toggle_on_off",
+      "title": "On/Off",
+      "command": 1
+    },
+    {
+      "key": "toggle_mute",
+      "title": "Mute",
+      "command": 0
+    },
+    {
+      "key": "vol_down",
+      "title": "Volume -",
+      "command": 12
+    },
+    {
+      "key": "vol_up",
+      "title": "Volume +",
+      "command": 9
+    },
+    {
+      "key": "line_1",
+      "title": "Line 1",
+      "command": 10
+    },
+    {
+      "key": "line_2",
+      "title": "Line 2",
+      "command": 21
+    },
+    {
+      "key": "line_optical_1",
+      "title": "Optical",
+      "command": 13
+    },
+    {
+      "key": "line_coax_1",
+      "title": "Coax",
+      "command": 22
+    },
+    {
+      "key": "line_bt_1",
+      "title": "Bluetooth",
+      "command": 14
+    },
+    {
+      "key": "toggle_play_pause",
+      "title": "Play/Pause",
+      "command": 20
+    },
+    {
+      "key": "play_next",
+      "title": "Next",
+      "command": 6
+    },
+    {
+      "key": "play_prev",
+      "title": "Prev",
+      "command": 8
+    }
+  ]
+}
